@@ -5,7 +5,7 @@ Authors@R:
     person("Matt", "L", , "matthew.lowhw@gmail.com", role = c("aut", "cre"))
 Description: A library for OCR of images into R ready formats and outputting them into a format that can be pasted directly into a LaTeX document 
 License: `use_mit_license()`
-Imports: Tesseract, stringr, dplyr
+Imports: tesseract, stringr, dplyr
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
